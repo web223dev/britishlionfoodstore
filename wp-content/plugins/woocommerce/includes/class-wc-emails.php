@@ -364,7 +364,7 @@ class WC_Emails {
 	 * @param bool     $plain_text    If is plain text email.
 	 * @param string   $email         Email address.
 	 */
-	public function order_details( $order, $sent_to_admin = false, $plain_text = false, $email = '' ) {
+	public function order_details( $order, $sent_to_admin = false, $plain_text = false, $email = '' ) {		
 		if ( $plain_text ) {
 			wc_get_template(
 				'emails/plain/email-order-details.php', array(
