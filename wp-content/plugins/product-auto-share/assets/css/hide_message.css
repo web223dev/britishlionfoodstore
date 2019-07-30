@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#message{
+			display:none;
+		}
+		
+.add_red{
+			border-left-color:#ff0000 !important;
+		}

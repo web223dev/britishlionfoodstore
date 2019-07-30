@@ -1,0 +1,14 @@
+[16-Jul-2019 13:27:37 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[16-Jul-2019 13:27:37 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[17-Jul-2019 16:50:11 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[17-Jul-2019 16:50:11 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[18-Jul-2019 05:38:47 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[18-Jul-2019 05:38:47 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[18-Jul-2019 08:26:59 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[18-Jul-2019 08:26:59 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[18-Jul-2019 08:27:26 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[18-Jul-2019 08:27:26 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[18-Jul-2019 08:30:29 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[18-Jul-2019 08:30:29 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.
+[18-Jul-2019 08:31:14 UTC] The WC_Cart::get_remove_url function is deprecated since version 3.3. Replace with wc_get_cart_remove_url.
+[18-Jul-2019 08:31:14 UTC] The WC_Cart::get_item_data function is deprecated since version 3.3. Replace with wc_get_formatted_cart_item_data.

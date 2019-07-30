@@ -1,0 +1,211 @@
+#wsp_popup_dismiss{
+color: #ff0000;
+cursor: pointer;
+}
+.wsp_popup_notice{
+	background: #c1c1c1;
+	border: 1px solid red;
+}
+#wsp_popup{
+	position: fixed;
+	margin-bottom:40px;
+	left:18%;
+	width:65%;
+	height:30px;
+	border-radius:15px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	font-weight:bold;
+	font:25px;
+	padding:3px;
+	color: #000000;
+	text-align: center;
+	top: 0px;
+	z-index: 100000;
+    padding-top: 10px;
+	
+	}
+	
+#dismis{
+color: #ff0000;
+cursor: pointer;
+}
+.awes{
+	background: #c1c1c1;
+	border: 1px solid red;
+}
+#check {
+   position: fixed;
+	margin-bottom:40px;
+	left:18%;
+	width:65%;
+	height:30px;
+	border-radius:15px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	font-weight:bold;
+	font:25px;
+	padding:3px;
+	color: #000000;
+	text-align: center;
+	top: 0px;
+	z-index: 100000;
+    padding-top: 10px;
+}
+.redir{
+	position: fixed;
+	margin-bottom:40px;
+	left:18%;
+	width:65%;
+	height:30px;
+	border-radius:15px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	font-weight:bold;
+	font:25px;
+	padding:3px;
+	color: #000000;
+	text-align: center;
+	top: 0px;
+	z-index: 100000;
+    padding-top: 10px;
+}
+.pas-auth-btn {
+	margin-top: 10px !important;
+}
+.div13{
+	display: inline-block;
+   
+    vertical-align: top;
+}
+.div14 {
+    display: inline-block;
+}
+.div12{
+	
+	
+}
+.add_red{				
+	border-left-color:#ff0000 !important;
+}
+.wp_newsletter{
+	border: 3px double red;
+    font-size: 20px;
+}		
+#overlay-loader {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    left: 0;
+    padding-top: 18%;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+div.ced_pas_fanatsy h2{
+	font-family: fantasy!important;
+}	
+.hide
+{
+	display: none;
+}
+.display{
+	display: block;
+}
+.product_autoshare_img_email_image{
+background-color: #fff;
+ border-radius: 6px;
+ float: right;
+ margin-right: 35px;
+ position: relative;
+}
+.product_autoshare_img_main_wrapper{
+	margin:3%;
+}
+.pas_content{
+	float: left;
+	width:50%;
+}
+#product_autoshare_loader {
+ background-color: rgba(255, 255, 255, 0.6);
+ bottom: 0;
+ height: 100%;
+ left: 0;
+ position: fixed;
+ right: 0;
+ top: 0;
+ width: 100%;
+ z-index: 99999;
+}
+#product_autoshare_loader img {
+ display: block;
+ left: 0;
+ margin: 0 auto;
+ position: absolute;
+ right: 0;
+ top: 40%;
+}
+#product_autoshare_img_send_email{
+	padding:10px;
+	margin:10px 0px 10px 10px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+	font-weight: bold;
+}
+.ced_pas_cross_image > a {
+ display: block;
+ position: relative;
+}
+.product_autoshare_img_email_field {
+ height: 36px;
+ max-width:190px;
+ width: 100%;
+}
+.ced_pas_email_image_error{
+ color: red;
+ font-size: 16px;
+ max-width: 300px;
+ width:100%;
+}
+.ced_pas_email_image_success{
+ color: green;
+ font-size: 16px;
+ max-width: 300px;
+ width:100%;
+} 
+.button-primary.ced_pas_cross_image {
+  border-radius: 50%;
+  height: 15px;
+  width: 16px;
+  padding: 0px;
+}
+.ced_pas_cross_image > a::before {
+  background-color: #fff;
+ content: "";
+ height: 2px;
+ left: 2px;
+ margin: 0 auto;
+ position: absolute;
+ top: 6px;
+ transform: rotate(140deg);
+ width: 10px;
+}
+.ced_pas_cross_image > a::after {
+ background-color: #fff;
+ content: "";
+ height: 2px;
+ left: 2px;
+ margin: 0 auto;
+ position: absolute;
+ top: 6px;
+ transform: rotate(44deg);
+ width: 10px;
+}
+.ced_pas_cross_image {
+ position: absolute;
+  right: -5px;
+  top: -3px;
+}

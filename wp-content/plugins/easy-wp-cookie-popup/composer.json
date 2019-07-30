@@ -1,0 +1,22 @@
+{
+  "name": "patrickposner/cookimize",
+  "description": "cookie gpdr plugin",
+  "type": "wordpress-plugin",
+  "license": "gpl",
+  "authors": [
+    {
+      "name": "Patrick Posner",
+      "email": "hello@patrickposner.de"
+    }
+  ],
+  "autoload": {
+    "classmap": [],
+    "files": [
+      "src/class-cs-activation.php",
+      "src/admin/class-cs-settings.php",
+      "src/admin/class-cs-admin.php",
+      "src/public/class-cs-public.php",
+      "src/public/class-cs-iframe.php"
+    ]
+  }
+}
